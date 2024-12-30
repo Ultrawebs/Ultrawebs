@@ -45,3 +45,8 @@
 <p align="center">
   <img src="https://github.com/Ultrawebs/Ultrawebs/raw/master/animation.gif" alt="Animation" width="500" />
 </p>
+
+<!-- Add snake game -->
+<p align="center">
+  <img src="https://github.com/Ultrawebs/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake game" />
+</p>
